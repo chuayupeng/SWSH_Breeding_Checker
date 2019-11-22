@@ -1,0 +1,383 @@
+GrookeyGrookey	Field / Grass
+ThwackeyThwackey	Field / Grass
+RillaboomRillaboom	Field / Grass
+ScorbunnyScorbunny	Field / HumanLike
+RabootRaboot	Field / HumanLike
+CinderaceCinderace	Field / HumanLike
+SobbleSobble	Water1 / Field
+DrizzileDrizzile	Water1 / Field
+InteleonInteleon	Water1 / Field
+BlipbugBlipbug	Bug
+DottlerDottler	Bug
+OrbeetleOrbeetle	Bug
+CaterpieCaterpie	Bug
+MetapodMetapod	Bug
+ButterfreeButterfree	Bug
+GrubbinGrubbin	Bug
+CharjabugCharjabug	Bug
+VikavoltVikavolt	Bug
+HoothootHoothoot	Flying
+NoctowlNoctowl	Flying
+RookideeRookidee	Flying
+CorvisquireCorvisquire	Flying
+CorviknightCorviknight	Flying
+SkwovetSkwovet	Field
+GreedentGreedent	Field
+PidovePidove	Flying
+TranquillTranquill	Flying
+UnfezantUnfezant	Flying
+NickitNickit	Field
+ThievulThievul	Field
+ZigzagoonZigzagoon	Field
+LinooneLinoone	Field
+ObstagoonObstagoon	Field
+WoolooWooloo	Field
+DubwoolDubwool	Field
+LotadLotad	Water1 / Grass
+LombreLombre	Water1 / Grass
+LudicoloLudicolo	Water1 / Grass
+SeedotSeedot	Field / Grass
+NuzleafNuzleaf	Field / Grass
+ShiftryShiftry	Field / Grass
+ChewtleChewtle	Monster / Water1
+DrednawDrednaw	Monster / Water1
+PurrloinPurrloin	Field
+LiepardLiepard	Field
+YamperYamper	Field
+BoltundBoltund	Field
+BunnelbyBunnelby	Field
+DiggersbyDiggersby	Field
+MinccinoMinccino	Field
+CinccinoCinccino	Field
+BounsweetBounsweet	Grass
+SteeneeSteenee	Grass
+TsareenaTsareena	Grass
+OddishOddish	Grass
+GloomGloom	Grass
+VileplumeVileplume	Grass
+BellossomBellossom	Grass
+RoseliaRoselia	Fairy / Grass
+RoseradeRoserade	Fairy / Grass
+WingullWingull	Water1 / Flying
+PelipperPelipper	Water1 / Flying
+JoltikJoltik	Bug
+GalvantulaGalvantula	Bug
+ElectrikeElectrike	Field
+ManectricManectric	Field
+VulpixVulpix	Field
+NinetalesNinetales	Field
+GrowlitheGrowlithe	Field
+ArcanineArcanine	Field
+VanilliteVanillite	Mineral
+VanillishVanillish	Mineral
+VanilluxeVanilluxe	Mineral
+SwinubSwinub	Field
+PiloswinePiloswine	Field
+MamoswineMamoswine	Field
+DelibirdDelibird	Water1 / Field
+SnoruntSnorunt	Fairy / Mineral
+GlalieGlalie	Fairy / Mineral
+FroslassFroslass	Fairy / Mineral
+BaltoyBaltoy	Mineral
+ClaydolClaydol	Mineral
+MudbrayMudbray	Field
+MudsdaleMudsdale	Field
+DwebbleDwebble	Bug / Mineral
+CrustleCrustle	Bug / Mineral
+GolettGolett	Mineral
+GolurkGolurk	Mineral
+MunnaMunna	Field
+MusharnaMusharna	Field
+NatuNatu	Flying
+XatuXatu	Flying
+StuffulStufful	Field
+BewearBewear	Field
+SnoverSnover	Monster / Grass
+AbomasnowAbomasnow	Monster / Grass
+KrabbyKrabby	Water3
+KinglerKingler	Water3
+WooperWooper	Water1 / Field
+QuagsireQuagsire	Water1 / Field
+CorphishCorphish	Water1 / Water3
+CrawdauntCrawdaunt	Water1 / Water3
+NincadaNincada	Bug
+NinjaskNinjask	Bug
+ShedinjaShedinja	Mineral
+HitmonleeHitmonlee	HumanLike
+HitmonchanHitmonchan	HumanLike
+HitmontopHitmontop	HumanLike
+PanchamPancham	Field / HumanLike
+PangoroPangoro	Field / HumanLike
+KlinkKlink	Mineral
+KlangKlang	Mineral
+KlinklangKlinklang	Mineral
+CombeeCombee	Bug
+VespiquenVespiquen	Bug
+BronzorBronzor	Mineral
+BronzongBronzong	Mineral
+RaltsRalts	HumanLike / Amorphous
+KirliaKirlia	HumanLike / Amorphous
+GardevoirGardevoir	HumanLike / Amorphous
+GalladeGallade	HumanLike / Amorphous
+DrifloonDrifloon	Amorphous
+DrifblimDrifblim	Amorphous
+GossifleurGossifleur	Grass
+EldegossEldegoss	Grass
+CherubiCherubi	Fairy / Grass
+CherrimCherrim	Fairy / Grass
+StunkyStunky	Field
+SkuntankSkuntank	Field
+TympoleTympole	Water1
+PalpitoadPalpitoad	Water1
+SeismitoadSeismitoad	Water1
+DuskullDuskull	Amorphous
+DusclopsDusclops	Amorphous
+DusknoirDusknoir	Amorphous
+MachopMachop	HumanLike
+MachokeMachoke	HumanLike
+MachampMachamp	HumanLike
+GastlyGastly	Amorphous
+HaunterHaunter	Amorphous
+GengarGengar	Amorphous
+MagikarpMagikarp	Water2 / Dragon
+GyaradosGyarados	Water2 / Dragon
+GoldeenGoldeen	Water2
+SeakingSeaking	Water2
+RemoraidRemoraid	Water1 / Water2
+OctilleryOctillery	Water1 / Water2
+ShellderShellder	Water3
+CloysterCloyster	Water3
+FeebasFeebas	Water1 / Dragon
+MiloticMilotic	Water1 / Dragon
+BasculinBasculin	Water2
+WishiwashiWishiwashi	Water2
+PyukumukuPyukumuku	Water1
+TrubbishTrubbish	Mineral
+GarbodorGarbodor	Mineral
+SizzlipedeSizzlipede	Bug
+CentiskorchCentiskorch	Bug
+RolycolyRolycoly	Mineral
+CarkolCarkol	Mineral
+CoalossalCoalossal	Mineral
+DiglettDiglett	Field
+DugtrioDugtrio	Field
+DrilburDrilbur	Field
+ExcadrillExcadrill	Field
+RoggenrolaRoggenrola	Mineral
+BoldoreBoldore	Mineral
+GigalithGigalith	Mineral
+TimburrTimburr	HumanLike
+GurdurrGurdurr	HumanLike
+ConkeldurrConkeldurr	HumanLike
+WoobatWoobat	Field / Flying
+SwoobatSwoobat	Field / Flying
+NoibatNoibat	Flying / Dragon
+NoivernNoivern	Flying / Dragon
+OnixOnix	Mineral
+SteelixSteelix	Mineral
+ArrokudaArrokuda	Water2
+BarraskewdaBarraskewda	Water2
+MeowthMeowth	Field
+PerrserkerPerrserker	Field
+PersianPersian	Field
+MilceryMilcery	Fairy / Amorphous
+AlcremieAlcremie	Fairy / Amorphous
+CutieflyCutiefly	Bug / Fairy
+RibombeeRibombee	Bug / Fairy
+FerroseedFerroseed	Grass / Mineral
+FerrothornFerrothorn	Grass / Mineral
+PumpkabooPumpkaboo	Amorphous
+GourgeistGourgeist	Amorphous
+PikachuPikachu	Field / Fairy
+RaichuRaichu	Field / Fairy
+EeveeEevee	Field
+VaporeonVaporeon	Field
+JolteonJolteon	Field
+FlareonFlareon	Field
+EspeonEspeon	Field
+UmbreonUmbreon	Field
+LeafeonLeafeon	Field
+GlaceonGlaceon	Field
+SylveonSylveon	Field
+ApplinApplin	Grass / Dragon
+FlappleFlapple	Grass / Dragon
+AppletunAppletun	Grass / Dragon
+EspurrEspurr	Field
+MeowsticMeowstic	Field
+SwirlixSwirlix	Fairy
+SlurpuffSlurpuff	Fairy
+SpritzeeSpritzee	Fairy
+AromatisseAromatisse	Fairy
+DewpiderDewpider	Water1 / Bug
+AraquanidAraquanid	Water1 / Bug
+WobbuffetWobbuffet	Amorphous
+Farfetch’dFarfetch’d	Flying / Field
+Sirfetch’dSirfetch’d	Flying / Field
+ChinchouChinchou	Water2
+LanturnLanturn	Water2
+CroagunkCroagunk	HumanLike
+ToxicroakToxicroak	HumanLike
+ScraggyScraggy	Field / Dragon
+ScraftyScrafty	Field / Dragon
+StunfiskStunfisk	Water1 / Amorphous
+ShuckleShuckle	Bug
+BarboachBarboach	Water2
+WhiscashWhiscash	Water2
+ShellosShellos	Water1 / Amorphous
+GastrodonGastrodon	Water1 / Amorphous
+WimpodWimpod	Bug / Water3
+GolisopodGolisopod	Bug / Water3
+BinacleBinacle	Water3
+BarbaracleBarbaracle	Water3
+CorsolaCorsola	Water1 / Water3
+CursolaCursola	Water1 / Water3
+ImpidimpImpidimp	Fairy / HumanLike
+MorgremMorgrem	Fairy / HumanLike
+GrimmsnarlGrimmsnarl	Fairy / HumanLike
+HatennaHatenna	Fairy
+HattremHattrem	Fairy
+HattereneHatterene	Fairy
+SalanditSalandit	Monster / Dragon
+SalazzleSalazzle	Monster / Dragon
+PawniardPawniard	HumanLike
+BisharpBisharp	HumanLike
+ThrohThroh	HumanLike
+SawkSawk	HumanLike
+KoffingKoffing	Amorphous
+WeezingWeezing	Amorphous
+SudowoodoSudowoodo	Mineral
+ClefairyClefairy	Fairy
+ClefableClefable	Fairy
+TogeticTogetic	Flying / Fairy
+TogekissTogekiss	Flying / Fairy
+SnorlaxSnorlax	Monster
+CottoneeCottonee	Grass / Fairy
+WhimsicottWhimsicott	Grass / Fairy
+RhyhornRhyhorn	Monster / Field
+RhydonRhydon	Monster / Field
+RhyperiorRhyperior	Monster / Field
+GothitaGothita	HumanLike
+GothoritaGothorita	HumanLike
+GothitelleGothitelle	HumanLike
+SolosisSolosis	Amorphous
+DuosionDuosion	Amorphous
+ReuniclusReuniclus	Amorphous
+KarrablastKarrablast	Bug
+EscavalierEscavalier	Bug
+ShelmetShelmet	Bug
+AccelgorAccelgor	Bug
+ElgyemElgyem	HumanLike
+BeheeyemBeheeyem	HumanLike
+CubchooCubchoo	Field
+BearticBeartic	Field
+RuffletRufflet	Flying
+BraviaryBraviary	Flying
+VullabyVullaby	Flying
+MandibuzzMandibuzz	Flying
+SkorupiSkorupi	Bug / Water3
+DrapionDrapion	Bug / Water3
+LitwickLitwick	Amorphous
+LampentLampent	Amorphous
+ChandelureChandelure	Amorphous
+InkayInkay	Water1 / Water2
+MalamarMalamar	Water1 / Water2
+SneaselSneasel	Field
+WeavileWeavile	Field
+SableyeSableye	HumanLike
+MawileMawile	Field / Fairy
+MaractusMaractus	Grass
+SigilyphSigilyph	Flying
+LucarioLucario	Field / HumanLike
+TorkoalTorkoal	Field
+MimikyuMimikyu	Amorphous
+CufantCufant	Field / Mineral
+CopperajahCopperajah	Field / Mineral
+QwilfishQwilfish	Water2
+FrillishFrillish	Amorphous
+JellicentJellicent	Amorphous
+MareanieMareanie	Water1
+ToxapexToxapex	Water1
+CramorantCramorant	Water1 / Flying
+ToxtricityToxtricity	HumanLike
+SilicobraSilicobra	Field / Dragon
+SandacondaSandaconda	Field / Dragon
+HippopotasHippopotas	Field
+HippowdonHippowdon	Field
+DurantDurant	Bug
+HeatmorHeatmor	Field
+HelioptileHelioptile	Monster / Dragon
+HelioliskHeliolisk	Monster / Dragon
+HawluchaHawlucha	Flying / HumanLike
+TrapinchTrapinch	Bug / Dragon
+VibravaVibrava	Bug / Dragon
+FlygonFlygon	Bug / Dragon
+AxewAxew	Monster / Dragon
+FraxureFraxure	Monster / Dragon
+HaxorusHaxorus	Monster / Dragon
+YamaskYamask	Mineral / Amorphous
+RunerigusRunerigus	Mineral / Amorphous
+CofagrigusCofagrigus	Mineral / Amorphous
+HonedgeHonedge	Mineral
+DoubladeDoublade	Mineral
+AegislashAegislash	Mineral
+PonytaPonyta	Field
+RapidashRapidash	Field
+SinisteaSinistea	Mineral / Amorphous
+PolteageistPolteageist	Mineral / Amorphous
+IndeedeeIndeedee	Fairy
+PhantumpPhantump	Grass / Amorphous
+TrevenantTrevenant	Grass / Amorphous
+MorelullMorelull	Grass
+ShiinoticShiinotic	Grass
+OranguruOranguru	Field
+PassimianPassimian	Field
+MorpekoMorpeko	Field / Fairy
+FalinksFalinks	Fairy / Mineral
+DrampaDrampa	Monster / Dragon
+TurtonatorTurtonator	Monster / Dragon
+TogedemaruTogedemaru	Field / Fairy
+SnomSnom	Bug
+FrosmothFrosmoth	Bug
+ClobbopusClobbopus	Water1 / HumanLike
+GrapploctGrapploct	Water1 / HumanLike
+PincurchinPincurchin	Water1 / Amorphous
+MantineMantine	Water1
+WailmerWailmer	Field / Water2
+WailordWailord	Field / Water2
+BergmiteBergmite	Monster / Mineral
+AvaluggAvalugg	Monster / Mineral
+DhelmiseDhelmise	Mineral
+LaprasLapras	Monster / Water1
+LunatoneLunatone	Mineral
+SolrockSolrock	Mineral
+Mr. MimeMr. Mime	HumanLike
+Mr. RimeMr. Rime	HumanLike
+DarumakaDarumaka	Field
+DarmanitanDarmanitan	Field
+StonjournerStonjourner	Mineral
+EiscueEiscue	Water1 / Field
+DuraludonDuraludon	Mineral / Dragon
+RotomRotom	Amorphous
+Rotom-HeatRotom-Heat	Amorphous
+Rotom-WashRotom-Wash	Amorphous
+Rotom-FrostRotom-Frost	Amorphous
+Rotom-FanRotom-Fan	Amorphous
+Rotom-MowRotom-Mow	Amorphous
+CharmanderCharmander	Monster / Dragon
+CharmeleonCharmeleon	Monster / Dragon
+CharizardCharizard	Monster / Dragon
+LarvitarLarvitar	Monster
+PupitarPupitar	Monster
+TyranitarTyranitar	Monster
+DeinoDeino	Dragon
+ZweilousZweilous	Dragon
+HydreigonHydreigon	Dragon
+GoomyGoomy	Dragon
+SliggooSliggoo	Dragon
+GoodraGoodra	Dragon
+Jangmo-oJangmo-o	Dragon
+Hakamo-oHakamo-o	Dragon
+Kommo-oKommo-o	Dragon
+DreepyDreepy	Amorphous / Dragon
+DrakloakDrakloak	Amorphous / Dragon
+DragapultDragapult	Amorphous / Dragon
